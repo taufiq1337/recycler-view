@@ -1,4 +1,4 @@
-# Kalkulator Recycler View
+# Aplikasi Menu Makanan
     Aplikasi standard yang digunakan untuk memesan Makanan menggunakan Recycler View
 
 # Requirement
